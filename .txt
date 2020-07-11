@@ -2,3 +2,5 @@
 tools for data science
 python
 jupyter notebook
+sql
+github
