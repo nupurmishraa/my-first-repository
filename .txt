@@ -4,3 +4,5 @@ python
 jupyter notebook
 sql
 github
+java
+R
